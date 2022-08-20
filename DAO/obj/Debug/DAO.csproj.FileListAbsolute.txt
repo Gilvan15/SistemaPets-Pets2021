@@ -45,3 +45,13 @@ C:\Repositorio\SistemaPetsePets2021\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.c
 C:\Repositorio\SistemaPetsePets2021\DAO\obj\Debug\DAO.csproj.CopyComplete
 C:\Repositorio\SistemaPetsePets2021\DAO\obj\Debug\DAO.dll
 C:\Repositorio\SistemaPetsePets2021\DAO\obj\Debug\DAO.pdb
+C:\workspace\SistemaPets-Pets2021\DAO\bin\Debug\DAO.dll.config
+C:\workspace\SistemaPets-Pets2021\DAO\bin\Debug\DAO.dll
+C:\workspace\SistemaPets-Pets2021\DAO\bin\Debug\DAO.pdb
+C:\workspace\SistemaPets-Pets2021\DAO\bin\Debug\Entidades.dll
+C:\workspace\SistemaPets-Pets2021\DAO\bin\Debug\Entidades.pdb
+C:\workspace\SistemaPets-Pets2021\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\workspace\SistemaPets-Pets2021\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\workspace\SistemaPets-Pets2021\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\workspace\SistemaPets-Pets2021\DAO\obj\Debug\DAO.dll
+C:\workspace\SistemaPets-Pets2021\DAO\obj\Debug\DAO.pdb

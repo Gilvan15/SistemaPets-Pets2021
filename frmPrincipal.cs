@@ -179,7 +179,7 @@ namespace SistemaPet
         }
         private void Fechar_Click(object sender, EventArgs e)
         {
-            soundLembrete();
+            //soundLembrete();
             MessageBox.Show("NÃO ESQUEÇA DE REALIZAR O BACKUP DIÁRIO AO TÉRMINO DO DIA, SE JÁ REALISOU DESCONSIDERE A MENSAGEM!", "Lembrete!", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             
             DialogResult result1 = MessageBox.Show("Ir para tela de Login?", "Fechar!", MessageBoxButtons.YesNo);

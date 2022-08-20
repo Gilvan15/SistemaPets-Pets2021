@@ -55,3 +55,15 @@ C:\Repositorio\SistemaPetsePets2021\Model\obj\Debug\Model.csproj.CoreCompileInpu
 C:\Repositorio\SistemaPetsePets2021\Model\obj\Debug\Model.csproj.CopyComplete
 C:\Repositorio\SistemaPetsePets2021\Model\obj\Debug\Model.dll
 C:\Repositorio\SistemaPetsePets2021\Model\obj\Debug\Model.pdb
+C:\workspace\SistemaPets-Pets2021\Model\bin\Debug\Model.dll
+C:\workspace\SistemaPets-Pets2021\Model\bin\Debug\Model.pdb
+C:\workspace\SistemaPets-Pets2021\Model\bin\Debug\DAO.dll
+C:\workspace\SistemaPets-Pets2021\Model\bin\Debug\Entidades.dll
+C:\workspace\SistemaPets-Pets2021\Model\bin\Debug\DAO.pdb
+C:\workspace\SistemaPets-Pets2021\Model\bin\Debug\DAO.dll.config
+C:\workspace\SistemaPets-Pets2021\Model\bin\Debug\Entidades.pdb
+C:\workspace\SistemaPets-Pets2021\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\workspace\SistemaPets-Pets2021\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\workspace\SistemaPets-Pets2021\Model\obj\Debug\Model.csproj.CopyComplete
+C:\workspace\SistemaPets-Pets2021\Model\obj\Debug\Model.dll
+C:\workspace\SistemaPets-Pets2021\Model\obj\Debug\Model.pdb
